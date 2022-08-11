@@ -25,7 +25,7 @@
 
 ## 4 - Ecrire sous format code 
 
-(3 apostrophes inversé ctrl gr 7 avec le nom du langage exemple "```java")
+3 apostrophes inversé ctrl gr 7 avec le nom du langage exemple "```java" et termine la partie de code avec "```"
 
 ```java
 import foobar
@@ -33,7 +33,7 @@ import foobar
 public static void main(String[] args){
 
 System.out.println("hello");
-
+```
 }
 
 ## 5 - Construire un tableau
