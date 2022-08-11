@@ -35,3 +35,6 @@ public static void main(String[] args){
 System.out.println("hello");
 
 }
+
+## 5 - Construire un tableau
+Aller sur un générateur de tableu, [clic ici](https://www.tablesgenerator.com/markdown_tables)
