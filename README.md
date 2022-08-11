@@ -12,12 +12,13 @@
 "#### titre"
 
 
-## 2 - Créer des lignes de séparations de partie avec 
+## 2 - Créer des lignes de séparations de partie
 
 "---"
 
 
 ## 3 - Les Hyperliens 
+[Read-Me](https://github.com/StevenDumortier/Read-Me)
 
 "[nom de l'hyperlien] (lien)"
 
