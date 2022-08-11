@@ -37,4 +37,4 @@ System.out.println("hello");
 }
 
 ## 5 - Construire un tableau
-Aller sur un générateur de tableu, [clic ici](https://www.tablesgenerator.com/markdown_tables)
+Aller sur un générateur de tableu, [Click ici](https://www.tablesgenerator.com/markdown_tables)
